@@ -12,3 +12,5 @@ const start = async () => {
 }
 
 start();
+
+//Video kalınan saat = 3:07:29 / 9:59:58
